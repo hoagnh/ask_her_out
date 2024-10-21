@@ -1,2 +1,2 @@
 # ask_her_out
-thu luom code nay duoc tren internet thoi!
+vo tinh luom duoc code nay tren internet thoi!
